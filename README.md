@@ -31,3 +31,9 @@ As a proper introduction, my name is Alexander Prasetyo Christianto, and usually
 - 🌱 Exploring the world of information and technology and engineering.
 - ⚡ In my free time, i usually explore my hobbies such as reading psychological books, photography, some sports.
 - 📫 How to reach me? [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexanderpc/)
+
+---
+
+### 🛠️ Languages and Tools :
+
+As a person who have worked for 6 months as a Technical Consultant, I've learnerd some programming languages and used some tools to help me develop, such as:
