@@ -5,7 +5,7 @@ import torch
 import logging
 
 # Your bot token
-TOKEN = "8640714061:AAGw4JM2L7boR9SxFix0He-YTUcmUGuifHE"
+
 
 # Load model
 tokenizer = AutoTokenizer.from_pretrained("microsoft/DialoGPT-small")
