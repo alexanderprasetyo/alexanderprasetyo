@@ -4,8 +4,6 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 import torch
 import logging
 
-# Your bot token
-
 
 # Load model
 tokenizer = AutoTokenizer.from_pretrained("microsoft/DialoGPT-small")
